@@ -8,8 +8,8 @@ I should have taken more breaks instead of trying to persevere because after a b
 Useful thing I learned today:  
 Your while loop can have two conditions.  
 You can make an ordered list inline by floating left and adjusting the margins.  
-I should take more breaks.
-I struggle less at CSS if I just try to move stuff around and see what happens. I shouldn't be afraid to do that more. Worst case scenario I have to go back to an earlier commit.   
+I should take more breaks.  
+I struggle less with CSS if I just try to move stuff around and see what happens. I shouldn't be afraid to do that more. Worst case scenario I have to go back to an earlier commit.   
 
 Things I nailed:  
 Once I talked it through out loud I was able to break out my loops in a much clearer way and my code looked way less confusing.  
