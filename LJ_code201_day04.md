@@ -8,6 +8,6 @@ Useful thing I learned today :
 Britney went over my code and corrected all the typos with me, the linter didn't catch anything after I installed it!
 I also learned a lot more about using git in collaboration with other, which I had never done. I can see how git is going to be our number one tool in the future.  
 
-Things I nailed :
+Things I nailed :  
 The JS assignment was relatively easy. I even had time to fix some of Britney's code.  
 I also had the opportunity to walk her through my code and give her the info to improve her own. She also gave me good feedback on my code.  
