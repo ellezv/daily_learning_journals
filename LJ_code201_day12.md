@@ -1,4 +1,4 @@
-# LJ Code 201 - Day 11  
+# LJ Code 201 - Day 12  
 
 Today was good. Debugging was interesting, it's really a part of code that I like as much I hate. Trying to understand what you want to happen and what your code is doing instead is a fascinating puzzle (also I am saying that because Aaron taught it and he grades my journal).  
 Brian's lecture on CSS was really really good. He put simple words and simple examples on concept I thought I understand but I struggled with nonetheless. It really rocked my CSS world.  
