@@ -1,4 +1,4 @@
-# LJ Code 201 - Day 17  
+# LJ Code 201 - Day 18  
 
 Today was pretty overwhelming! When I arrived this morning I felt our top priority was to sort our javascript mess. We did, it was tedious and sometimes nerve wracking ("Are we breaking everything right now?") but oh so worth it. Our code might not be as DRY as I would like but it is SO MUCH cleaner.  
 We then decided to redo a whole feature and it took us forever to figure it out. We worked on it with three brains, even four when Sam came to help us and gave me fresh eyes on it.  
